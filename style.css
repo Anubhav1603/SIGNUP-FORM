@@ -1,0 +1,54 @@
+body{
+    background-color:aqua;
+}
+.flexbox-container{
+    width: 350px;
+    height: 274px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    border: 2px solid White;
+    border-radius: 15px;
+    background: white;
+    position: relative;
+  }
+.flexbox-container input {
+    width: 320px;
+    height: 35px;
+    border: 2px solid #e1dede69;
+    border-radius: 20px;
+    background: #e1dede69;
+    color: grey;
+}
+.form-item {
+    margin: 5px;
+    padding-bottom: 10px;
+    display: flex;
+}
+.form-btns button:hover{
+    opacity: 0.8;
+}
+
+.form-btns button {
+    margin: auto;
+    font-size: 20px;
+    padding: 5px 15px;
+    border: 2px solid;
+    border-radius: 15px;
+    color: white;
+    background: #178cc6;
+    width: 280px;
+    cursor: pointer;
+}
+
+.login-form{
+    padding-top: 10%;
+}
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    [class*="login-form"] {
+      width: 100%;
+    }
+  }
