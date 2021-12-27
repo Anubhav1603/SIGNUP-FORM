@@ -7,7 +7,7 @@ This signup form is made for LueurTech Software Solutions internship
 3. Create password and confirm password needs to be same.
 
 ## FORM
-![form](https://github.com/Anubhav1603/SIGNUP-FORM/blob/master/form_pic.PNG)
+![form](https://github.com/Anubhav1603/SIGNUP-FORM/blob/master/IMAGE/form_pic.PNG)
 
 ## ERROR MESSAGE
-![form error](https://github.com/Anubhav1603/SIGNUP-FORM/blob/master/form_with_error.PNG)
+![form error](https://github.com/Anubhav1603/SIGNUP-FORM/blob/master/IMAGE/form_with_error.PNG)
