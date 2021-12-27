@@ -6,4 +6,8 @@ This signup form is made for LueurTech Software Solutions internship
 2. Password maximum length is 20
 3. Create password and confirm password needs to be same.
 
+## FORM
 ![form](https://github.com/Anubhav1603/SIGNUP-FORM/blob/master/form_pic.PNG)
+
+## ERROR MESSAGE
+![form error](https://github.com/Anubhav1603/SIGNUP-FORM/blob/master/form_with_error.PNG)
