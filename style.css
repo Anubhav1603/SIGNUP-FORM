@@ -93,7 +93,7 @@ form .forget button:hover{
     border-radius: 115px;
     background-color: transparent;
     border: 1px solid #ccc;
-    padding-left: 68px;
+    padding: 20px;
     font-size: 16px;
     border-bottom-width: 2px;
     transition: all 0.3s ease;
@@ -102,6 +102,10 @@ form .forget button:hover{
 .user-details .input-box input:focus,
 .user-details .input-box input:valid{
     border-color: #9b59b6;
+}
+
+input {
+    text-align: center;
 }
 
 form .button{
